@@ -20,7 +20,7 @@ int main() {
   }
   cout << endl;
 
-  int x[N]; // 5 elementos
+  int x[N]; // 
   // a=5 2 8 9 9 5 5 9 4 3
   // i=0 , j=0...0 => x[0] =-1 => x[0]= 5
   // 5 ,x = {5}
