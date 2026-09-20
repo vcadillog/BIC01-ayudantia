@@ -6,5 +6,8 @@
 
 ## 2026-2
 
-### Primera semana
+### Primera semana (5-9:30)
 [12 septiembre](2026_2/12_sep)
+
+### Segunda semana (5-7:30)
+[19 septiembre](2026_2/19_sep)
