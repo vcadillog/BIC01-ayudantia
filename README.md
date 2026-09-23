@@ -11,3 +11,6 @@
 
 ### Segunda semana (5-7:30)
 [19 septiembre](2026_2/19_sep)
+
+### Tercera semana (4-6:00)
+[22 septiembre](2026_2/22_sep)
