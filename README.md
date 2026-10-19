@@ -20,3 +20,6 @@
 
 ### Quinta semana (5-7:00)
 [10 octubre](2026_2/10_oct)
+
+### Sexta semana (5-7:00)
+[18 octubre](2026_2/18_oct)
