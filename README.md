@@ -26,3 +26,6 @@
 
 ### Séptima semana (5-7:00)
 [31 octubre](2026_2/31_oct)
+
+### Octava semana (5-8:00)
+[21 noviembre](2026_2/31_oct)
